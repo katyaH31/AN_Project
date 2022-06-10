@@ -1,6 +1,6 @@
 # Proyecto-AN
 # G3_DARKMATTER 🌠
-#Raices de funciones no lineales 
+# Raices de funciones no lineales 
 ## Métodos desarrollados:📚
 1. Método de Ridder 
 2. Método de Halley
