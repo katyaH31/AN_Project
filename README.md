@@ -1,7 +1,7 @@
 # Proyecto-AN
 # G3_DARKMATTER 🌠
 # Raices de funciones no lineales 
-## Métodos desarrollados:📚
+## Métodos desarrollados📚
 1.  Método de Ridder 
 2.  Método de Halley
 ## Nombre de cada estudiante y usuario de GitHub correspondiente
