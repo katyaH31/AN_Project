@@ -12,5 +12,7 @@
 # NOTA❗
 - Posiblemente al correr el método de Halley le de un error en la celda in [4] ---> pip install tabulate
 - Se arregla instalando el __pip install tabulate__ en la terminal de cdm ya que es una libreria desde el jupyter notebook local y luego correrlo normal en el jupyter notebook
-![errorPosible]("C:\Users\Lisbe\OneDrive\Imágenes\pip install tabulate1.png")
+- ![pip install tabulate1](https://user-images.githubusercontent.com/71042746/173207126-056631fe-bdc4-41ad-b637-0bd94b2dd30a.png)
+
+
 
