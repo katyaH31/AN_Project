@@ -10,7 +10,7 @@
 2. Katya Lisbeth Herrera Molina - **Carnet: 00188119**
 - [Github Katya Herrera](https://github.com/katyaH31) te llevará al perfil
 # NOTA❗
-- Posiblemente al correr el método de Halley le de un error en la celda __in [4]: pip install tabulate__
+- Posiblemente al correr el método de Halley le de un error en la celda __In [4]: pip install tabulate__
 - Se arregla instalando el __pip install tabulate__ en la terminal de __cdm__ ya que es una libreria desde el jupyter notebook local y luego correrlo normal en el jupyter notebook
 ~~~
 ## PASOS: 
